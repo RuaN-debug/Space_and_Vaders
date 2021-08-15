@@ -44,3 +44,5 @@ The background is available on: <a href="https://br.freepik.com/vetores/fundo">F
 But a few changes were made on it by the youtube channel spoken above.
 
 # Game running
+
+![image](https://user-images.githubusercontent.com/54671133/129488021-3f702517-031a-4595-b59e-79245f1d1686.png)
