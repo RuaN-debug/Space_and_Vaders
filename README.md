@@ -16,7 +16,9 @@ First of all, you need to have python installed in your pc, you can find the lat
 
 In order to run the game you need to download this repository by clicking on Code and download ZIP:
 
-![image](https://user-images.githubusercontent.com/54671133/129487878-54c4b102-f98c-4a56-91cb-65abb5ede0fd.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129487878-54c4b102-f98c-4a56-91cb-65abb5ede0fd.png" />
+</p>
 
 Or clone it with:
 ```sh
@@ -45,4 +47,6 @@ But a few changes were made on it by the youtube channel spoken above.
 
 # Game running
 
-![image](https://user-images.githubusercontent.com/54671133/129488021-3f702517-031a-4595-b59e-79245f1d1686.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54671133/129488021-3f702517-031a-4595-b59e-79245f1d1686.png" />
+</p>
