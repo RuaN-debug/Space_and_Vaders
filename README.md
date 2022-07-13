@@ -27,7 +27,7 @@ git clone git@github.com:RuaN-debug/Space_and_Vaders.git
 
 Then all you have to do is install the pygame:
 ```sh
-pip install -r requirements
+pip install -r requirements.txt
 ```
 And run the Space_and_Vaders.py file:
 ```sh
